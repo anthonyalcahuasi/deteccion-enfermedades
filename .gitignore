@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Data
+data/raw/
+data/processed/
+
+# Results
+results/checkpoint.h5
+results/plots/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Slides
+docs/slides.pptx
